@@ -19,7 +19,7 @@ Push - É utilizado para colocar o commit feito na maquina local no remote ou gi
 
 Pull - É usado para adicionar novos arquivos do github na maquina local.
 
-Comando basicos do git e github.
+Comando basicos do git no computador.
 
 git --version 
 Mostra a versão do git.
@@ -46,6 +46,36 @@ git status = mostra os arquivos a serem commitados.
 
 comando para commitar um arquivo.
 git commit -m "primeiro comit"
+
+
+comando para trocar de master para main
+git brench -M "main"
+
+
+Comando basicos do github.
+
+Clicar no botão New
+
+Criar um novo repositório.
+Create a new repository.
+
+Repostory name.
+nome do repositório = nome do projeto.
+
+Description
+Descrição. = descrição do projeto.
+
+comando para fazer o link do repositório local com o github.
+git remote add origin + endereço do projoto: https://github.com/luciojs-Oliveira/Base.py.git
+
+comando para empurrar os arquivos do repositório local para o github.
+git push -u origin main
+
+
+
+
+
+
 
 
 
