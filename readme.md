@@ -86,16 +86,6 @@ Comandos basicos do git Bash
 
 clear é usado para limpar a tela.
 
-
-
-
-
-
-
-
-
-
-
 …or create a new repository on the command line
 …ou crie um novo repositório na linha de comando
 
