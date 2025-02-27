@@ -41,6 +41,12 @@ git init = inicializa um repósitorio git vazio.
 comando para adicionar arquivos.
 git add = manda os arquivos para os stage do git
 
+comando para ver mudanças a serem feitas.
+git status = mostra os arquivos a serem commitados. 
+
+comando para commitar um arquivo.
+git commit -m "primeiro comit"
+
 
 
 
