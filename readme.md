@@ -40,6 +40,9 @@ git init = inicializa um repósitorio git vazio.
 
 comando para adicionar arquivos.
 git add = manda os arquivos para os stage do git
+git add. = é usado para enviar todos os arquivos alterados de uma só vez.
+git add + nome do arquivo =  para alterar um arquivo selecionado.
+
 
 comando para ver mudanças a serem feitas.
 git status = mostra os arquivos a serem commitados. 
@@ -67,10 +70,15 @@ Descrição. = descrição do projeto.
 
 comando para fazer o link do repositório local com o github.
 git remote add origin + endereço do projoto: https://github.com/luciojs-Oliveira/Base.py.git
+git remote é usado apenas uma vez. ao inicializar um projeto.
 
 comando para empurrar os arquivos do repositório local para o github.
 git push -u origin main
 
+
+Comandos basicos do git Bash
+
+clear é usado para limpar a tela.
 
 
 
