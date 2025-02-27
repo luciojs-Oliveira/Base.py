@@ -54,6 +54,12 @@ git commit -m "primeiro comit"
 comando para trocar de master para main
 git brench -M "main"
 
+comando para voltar para a brench main
+git checkou main 
+
+comando para juntar uma brench
+git marg + nome da alteração.
+
 
 Comando basicos do github.
 
