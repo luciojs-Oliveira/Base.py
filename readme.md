@@ -280,3 +280,23 @@ git remote add origin https://github.com/luciojs-Oliveira/nome do arquivo
 git branch -M main
 git push -u origin main
 ..............................................................................................................
+
+Para alterar o nome de um repositório no GitHub, é necessário ser proprietário da organização ou ter permissão de administrador no repositório. 
+
+
+Para renomear um repositório no GitHub, pode: 
+
+..... Ir até o repositório que deseja editar
+..... Clicar em "Configurações"
+..... No campo "Nome do Repositório", digitar o novo nome
+..... Clicar em "Renomear"
+
+Quando se renomeia um repositório, todas as informações existentes são redirecionadas para o novo nome, com exceção das URLs do site do projeto. 
+
+..... Para renomear uma organização no GitHub, pode: 
+..... Selecionar a foto de perfil no canto superior direito do GitHub
+..... Selecionar "Suas organizações"
+..... Clicar em "Configurações" ao lado da organização
+..... Clicar em "Renomear organização" na parte inferior da página de configurações
+..... Digitar um novo nome para a organização
+..... Clicar em "Alterar nome da organização"
